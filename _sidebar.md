@@ -1,2 +1,3 @@
 - React
     - [Desktop App with React and Electron](./react_electron)
+    - [Installer with React and Electron](./react_electron_installer)
